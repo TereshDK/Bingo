@@ -1,6 +1,0 @@
-﻿  main.cpp
-C:\Users\apoll\source\repos\Bingo\main.cpp(113,13): warning C4477: 'scanf_s' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'const char (*)[16]'
-C:\Users\apoll\source\repos\Bingo\main.cpp(113,13): message : this argument is used by a conversion specifier
-C:\Users\apoll\source\repos\Bingo\main.cpp(113,13): warning C4477: 'scanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 2 has type 'unsigned __int64'
-C:\Users\apoll\source\repos\Bingo\main.cpp(113,13): message : this argument is used as a buffer size
-  Bingo.vcxproj -> C:\Users\apoll\source\repos\Bingo\x64\Debug\Bingo.exe
